@@ -33,7 +33,7 @@ By analyzing employee demographics, compensation, work-life balance, overtime, a
 
 ## Dashboard Preview
 
-![HR Attrition Dashboard](Dashboard .png)
+![HR Attrition Dashboard](dashboard.png)
 
 ---
 
